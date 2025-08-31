@@ -4,10 +4,7 @@
 
 A powerful workflow automation platform that orchestrates multiple AI agents to work together on scheduled tasks. Create sophisticated agent pipelines that run automatically - perfect for daily briefings, research monitoring, content generation, and business intelligence.
 
-![Agent Workflow Engine UI](https://via.placeholder.com/800x200)
-![Agent Workflow Engine Dashboard](https://via.placeholder.com/800x200)
-![Agent Workflow Engine Monitoring](https://via.placeholder.com/800x200)
-![Agent Workflow Engine Results](https://via.placeholder.com/800x200)
+
 
 ---
 
@@ -74,7 +71,7 @@ A powerful workflow automation platform that orchestrates multiple AI agents to 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/agent-workflow-engine.git](https://github.com/yourusername/agent-workflow-engine.git)
+   git clone [https://github.com/dhiaselmi1/agent-workflow-engine.git](https://github.com/dhiaselmi1/agent-workflow-engine.git)
    cd agent-workflow-engine
    ```
 2. Install dependencies:
