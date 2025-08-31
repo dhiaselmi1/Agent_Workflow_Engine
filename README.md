@@ -164,20 +164,7 @@ A powerful workflow automation platform that orchestrates multiple AI agents to 
 | **Insight** |  💡  | Generates analysis and recommendations   | Strategic insights            |
 | **Devil** |  😈  | Provides contrarian perspective          | Critical analysis & challenges|
 
----
 
-## 📅 Schedule Examples
-
-| Schedule           | Cron Expression   | Description                  |
-| :----------------- | :---------------- | :--------------------------- |
-| Daily at 9 AM      | `0 9 * * *`       | Every day at 9:00 AM         |
-| Weekdays at 8:30 AM| `30 8 * * 1-5`    | Monday-Friday at 8:30 AM     |
-| Every 6 hours      | `0 */6 * * *`     | 4 times per day              |
-| Weekly on Sunday   | `0 9 * * 0`       | Every Sunday at 9:00 AM      |
-| Monthly report     | `0 9 1 * *`       | First day of every month     |
-| Twice daily        | `0 9,17 * * *`    | 9 AM and 5 PM daily          |
-
----
 
 ## 📡 API Reference
 
