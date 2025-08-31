@@ -164,7 +164,7 @@ A powerful workflow automation platform that orchestrates multiple AI agents to 
 | **Insight** |  💡  | Generates analysis and recommendations   | Strategic insights            |
 | **Devil** |  😈  | Provides contrarian perspective          | Critical analysis & challenges|
 
-
+---
 
 ## 📡 API Reference
 
